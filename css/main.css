@@ -1,0 +1,365 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+div#clear-4 {
+	clear: both;
+}
+nav {
+	height: 50px;
+	background: #fff;
+}
+
+#logo {
+	float: left;
+	font-family: Arial;
+	font-weight: bold;
+	color: #464646;
+	padding-top: 17px;
+	padding-left: 75px;
+}
+nav div {
+	float: right;
+	padding-top: 17px;
+	padding-right: 77px
+}
+input[type="text"] {
+	font-size: 13px;
+	border: none;
+	font-family: Arial;
+	padding-left: 2px;
+}
+:placeholder {
+	color: #464646;
+	font-size: 1px;
+
+}
+/*///// end of nav-bar*/
+
+/*///// start section-1*/
+
+#container {
+	padding: 0 220px 0 220px;
+	margin: 0 auto;
+	height: 2449px;
+}
+
+
+
+img#profile {
+	height: 75px;
+	width: 75px;
+	border-radius: 50%;
+}
+#section-1 {
+	text-align: center;
+	
+	/*background: #000;*/
+}
+div.name {
+	padding-top: 32px;
+	padding-bottom: 32px;
+	font-family: Arial;
+	font-size: 15px;
+}
+#section-1 h1 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 51px;
+	font-weight: bold;
+	margin-bottom: 52px;
+ 
+}
+.time {
+	color: #7D7D73;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	font-weight: 100;
+	margin-bottom: 41px;
+}
+hr#tophr {
+	height: 2px;
+	width: 97px;
+    /*color: #C79852;*/
+    background-color: #C79852;
+    border: none;
+    margin: 0 auto;
+
+}
+.section-3 {
+	border-top: none;
+}
+.top-p {
+	margin-top: 35px;
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	padding-left: 78px;
+	font-size: 16px;
+
+}
+img.img-1 {
+	text-align: center;
+	padding-top: 36px;
+	padding-left: 35px;
+}
+.top-p-1 {
+	margin-top: 35px;
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	padding-left: 78px;
+	font-size: 16px;
+}
+.top-p-2 {
+		margin-top: 35px;
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	padding-left: 78px;
+	font-size: 16px;
+}
+#section-2 {
+	/*background: #000;*/
+	/*border-top: solid 1px #000;*/
+}
+
+/*//////end of section-2*/
+/*////// start of section-3 */
+.section-3 {
+	border-top: solid 1px #000;
+	padding-top: 28px;
+	
+}
+.s2-line-1 {
+	color: #565656;
+	line-height: 36px;
+	font-family: 'Cookie', cursive;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+	padding-left: 50px;
+	padding-right: 51px;
+	text-align: center;
+	font-size: 42px;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+.s2-line-2 {
+	font-family: Arial;
+	font-size: 23px;
+	text-align: center;
+	font-weight: bold;
+	color: #565656;
+	word-spacing: -1px;
+	letter-spacing: -1px;
+}
+.s2-line-3 {
+	margin-top: 35px;
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+.s2-line-4 {
+	margin-top: 10px;
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
+
+/*////// end of section-3*/
+
+/*////// start of section-4*/
+#section-4 {
+	margin-right: 10px;
+	margin-top: 35px;
+}
+.col-1 {
+	margin-left: 25px;
+	height: 405px;
+	width: 45%;
+	float: left;
+	display: inline;
+	background: #000;
+	border-right: solid 5px #fff;
+	background: url(http://codifyacademy.com/week2/beginner/img/chair2.png);
+
+}
+.col-2 {
+	height: 200px;
+	width: 44%;
+	float: left;
+	display: inline;
+	background: #300;
+	background: url(http://codifyacademy.com/week2/beginner/img/chair3.png);
+
+}
+.col-3 {
+	height: 200px;
+	width: 44%;
+	float: left;
+	display: inline;
+	background: #900;
+	background: url(http://codifyacademy.com/week2/beginner/img/chair4.png);
+	border-top: solid 5px #fff;
+}
+/*////// end of section-4*/
+
+/*////// start of section-5*/
+#section-5 {
+	margin-top: 60px;
+}
+#s5-line-1 {
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	padding-left: 78px;
+	font-size: 16px;
+}
+#s5-line-2 {
+	color: #565656;
+	line-height: 32px;
+	font-family: 'Lato', sans-serif;
+	text-align: left;
+	padding-left: 78px;
+	padding-top: 28px;
+	font-size: 16px;
+}
+#section-5 hr.yesss {
+	margin-top: 46px;
+}
+#section-5 img.heart {
+	/*text-align: center;*/
+	margin: 0 auto;
+	display: block;
+	position: relative;
+	right: 40px;
+	top: 35px;
+}
+#section-5 span {
+	display: block;
+	text-align: center;
+	font-family: 'Lato', sans-serif; 
+	color: #565656;
+	padding-top: 15px;
+	padding-left: 11px;
+
+}
+/*input[type="text"] {
+	border: solid 1px lightgray;
+	border-radius: 7px;
+	height: 50px;
+	width: 100%;
+}*/
+:placeholder {
+	color: gray;
+	font-family: Arial;
+	font-size: 19px;
+}
+textarea {
+	border-style: outset;
+	border: solid 1px lightgray;
+	border-radius: 7px;
+	height: 120px;
+	width: 99%;
+	color: gray;
+	font-family: Arial;
+	font-size: 14px;
+   	padding-left: 30px;
+   	margin-top: 30px;
+   	margin-left: 1px;
+   	border-top: solid 2px lightgray;
+   	margin-bottom: 3px;
+}
+#section-5 input[type="button"] {
+	background: transparent;
+	font-size: 12px;
+	color: gray;
+	border: none;
+	font-family: monospace;
+	padding-right: 5px;
+	color: #565656;
+}
+#section-5 input:hover {
+	cursor: pointer;
+}
+#section-5 input[type="button"]#post {
+	float: right;
+	margin-right: 25px;
+	margin-top: 5px;
+	font-size: 14px;
+	color: #565656;
+}
+
+#bookmark {
+	margin-left: 5px;
+}
+/*//// end of section-5 */
+
+/*///// section-6 */
+
+#section-6 {
+	height: 185px;
+	background: #F8F9FD;
+	margin-top: 60px;
+	width: 100%;
+	padding-top: 15px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #434345;
+
+
+}
+.box-06 {
+	width: 50%; 
+	float: left;
+	border: none;
+	height: 140px;
+	display: inline;
+}
+.box-001 span {
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 260px;
+	letter-spacing: 1px;
+	font-size: 18px;
+	font-family: 'Dosis', sans-serif;
+}
+.box-001 p {
+	margin-top: 20px;
+	margin-left: 260px;
+	font-weight: normal;
+	font-family: 'Thasadith', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+}
+.box-002 span {
+	padding-left: 50px;
+}
+#at p {
+	position: relative;
+	right: 100px;
+	word-spacing: 2px;
+}
+i.holy {
+position: relative;
+left: 257px;
+}
+#at {
+	/*margin-left: 25px;*/
+	position: relative;
+	left:30px;
+}
+.section-3 {
+	border-top: none;
+}
+#section-6 a {
+	text-decoration: none;
+	color: initial;.
+}
